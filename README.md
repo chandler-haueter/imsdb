@@ -3,7 +3,7 @@ The Internet Movie Script Database (IMSDb)
 
 ## Alphabetical
 
-[A](https://imsdb.com/alphabetical/A)	B	C	D	E	F	G	H I	J	K	L	M	N	O	P	Q R	S	T	U	V	W	X	Y	Z
+[A](https://imsdb.com/alphabetical/A)	BCDEFGHIJKLMNOPQRSTUVWXYZ
 
 ## Genre https://imsdb.com/scripts/10-Things-I-Hate-About-You.html
 
